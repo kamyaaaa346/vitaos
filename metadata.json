@@ -1,0 +1,6 @@
+{
+  "name": "VITAOS",
+  "description": "VITAOS is an interactive Predictive Health Operating System combining nutrition, fitness, biometric data integrations, grocery automation, and a custom interactive Digital Health Twin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
